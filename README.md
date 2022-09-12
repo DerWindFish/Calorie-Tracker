@@ -1,2 +1,2 @@
-# Calorie-Tracker
-Calorie Tracker
+# Calorie Tracker
+## Making a colorie tracking application, that also calculates your TDEE (Total Daily Energy Expenditure) and gives you a basic idea of how many calories you need to eat to lose weight
